@@ -3,10 +3,6 @@
 
 In this application, I build a Todo board using PHP Laravel, InertiaJS, Vue.Draggable, and Taliwind css.
 
-
-<img width="1396" alt="Screenshot 2023-03-02 at 9 11 00 PM" src="https://user-images.githubusercontent.com/1163421/222528207-9514609b-cea9-4ce8-8d50-2ff1a62f1bbd.png">
-
-
 ## Installation
 
 I use Laravel Sail over Docker to build and develop this application. However, you could easily run this application locally without having Laravel Sail.
