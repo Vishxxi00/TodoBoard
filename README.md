@@ -5,7 +5,7 @@ In this application, I build a Todo board using PHP Laravel, InertiaJS, Vue.Drag
 
 ## Installation
 
-I use Laravel Sail over Docker to build and develop this application. However, you could easily run this application locally without having Laravel Sail.
+I use Laravel Sail over Docker to build and develop this application. You could easily run this application locally without having Laravel Sail.
 
 Follow the steps below to install and run the application locally.
 
@@ -17,10 +17,9 @@ Follow the steps below to install and run the application locally.
 5. Open your .env file and change the database fields correspond to your configuration.
 6. Run php artisan key:generate
 7. Run php artisan migrate
-8. Run php artisan db:seed
-9. Run npm install 
-10. Run npm run dev 
-11. Visit the application in the browser
+8. Run npm install 
+9. Run npm run dev 
+10. Visit the application in the browser
 
 
 
