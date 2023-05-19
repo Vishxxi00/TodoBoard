@@ -21,5 +21,10 @@ Follow the steps below to install and run the application locally.
 9. Run npm run dev 
 10. Visit the application in the browser (http://127.0.0.1:8000/boards)
 
+Email - test@test.com
+password - 123456789
+
+when running locally you may have to refresh several times because i used docker and sail.
+
 
 
