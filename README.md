@@ -19,7 +19,7 @@ Follow the steps below to install and run the application locally.
 7. Run php artisan migrate
 8. Run npm install 
 9. Run npm run dev 
-10. Visit the application in the browser
+10. Visit the application in the browser (http://127.0.0.1:8000/boards)
 
 
 
